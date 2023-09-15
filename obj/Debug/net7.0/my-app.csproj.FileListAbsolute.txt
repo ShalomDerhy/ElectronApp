@@ -1,0 +1,8 @@
+C:\Electron.NET\my-app\obj\Debug\net7.0\my-app.csproj.AssemblyReference.cache
+C:\Electron.NET\my-app\obj\Debug\net7.0\my-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Electron.NET\my-app\obj\Debug\net7.0\my-app.AssemblyInfoInputs.cache
+C:\Electron.NET\my-app\obj\Debug\net7.0\my-app.AssemblyInfo.cs
+C:\Electron.NET\my-app\obj\Debug\net7.0\my-app.csproj.CoreCompileInputs.cache
+C:\Electron.NET\my-app\obj\Debug\net7.0\my-app.MvcApplicationPartsAssemblyInfo.cache
+C:\Electron.NET\my-app\obj\Debug\net7.0\my-app.RazorAssemblyInfo.cache
+C:\Electron.NET\my-app\obj\Debug\net7.0\my-app.RazorAssemblyInfo.cs
